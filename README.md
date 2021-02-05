@@ -1,6 +1,6 @@
-#react-shopping-cart
+# react-shopping-cart
 
-#Made from the video:
+# Made from the video:
 
 Build a Shopping Cart with React and TypeScript - Tutorial
 https://www.youtube.com/watch?v=sfmL6bGbiN8
