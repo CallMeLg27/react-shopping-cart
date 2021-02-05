@@ -1,3 +1,10 @@
+#react-shopping-cart
+
+#Made from the video:
+
+Build a Shopping Cart with React and TypeScript - Tutorial
+https://www.youtube.com/watch?v=sfmL6bGbiN8
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
